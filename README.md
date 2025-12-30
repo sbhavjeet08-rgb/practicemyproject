@@ -1,6 +1,3 @@
-# Git Practice 
-<<<<<<< Updated upstream
+i# Git Practice 
 anmol is a good boy 
-=======
-Some temporary change
->>>>>>> Stashed changes
+
